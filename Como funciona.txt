@@ -1,0 +1,3 @@
+Para funcionar eu fiz primeiro o repositorio no GitHub
+
+Pelo R primeiro eu não consegui, devido a origin diferente
